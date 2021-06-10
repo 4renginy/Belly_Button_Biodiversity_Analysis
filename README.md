@@ -18,7 +18,10 @@ Human body is a source of a thousands of types of bacteria harbored by different
  Such a dasboard requires buttons, dropdown menus, lists and charts however regular html wont do what we need to do so we decided to use javascript and html together.
  
  On this page the provider will be able to choose their id number from dorpdown menu and see all the information about themselves and what kind of bacterias found in their          body. 
+ <br>
        index.html is the web page code to present the information.
+ <br>
+ 
        style.css gave the page touch of charachter.
        
  ![](https://github.com/4renginy/BellybuttonBiodiversity.github.io/blob/master/Pics/cssfile.PNG)
