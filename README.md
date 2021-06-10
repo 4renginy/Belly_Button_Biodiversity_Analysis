@@ -24,7 +24,9 @@ Human body is a source of a thousands of types of bacteria harbored by different
  
  You can see the result of this project at following link;
  
+ ##Result;
  
+[Belly Button diversity Webpage](https://4renginy.github.io/BellybuttonBiodiversity.github.io/)
  
  I hope you enjoy the page as much as we enjoyed creating it.
 
