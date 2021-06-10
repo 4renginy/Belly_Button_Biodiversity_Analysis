@@ -20,12 +20,23 @@ Human body is a source of a thousands of types of bacteria harbored by different
  On this page the provider will be able to choose their id number from dorpdown menu and see all the information about themselves and what kind of bacterias found in their          body. 
  <br>
        index.html is the web page code to present the information.
+       
+ ![](https://github.com/4renginy/BellybuttonBiodiversity.github.io/blob/master/Pics/htmlfile.PNG)
  <br>
  
-       style.css gave the page touch of charachter.
+ style.css gave the page touch of charachter.
+ 
+ <br>
        
  ![](https://github.com/4renginy/BellybuttonBiodiversity.github.io/blob/master/Pics/cssfile.PNG)
-       Charts.js is the code to populate the necessary information
+ 
+ <br>
+      
+  Charts.js is the code to populate the necessary information
+  
+  <br>
+  
+  https://github.com/4renginy/BellybuttonBiodiversity.github.io/blob/master/Pics/htmlfile.PNG
  
  You can see the result of this project at following link;
  
