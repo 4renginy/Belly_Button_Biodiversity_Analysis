@@ -21,7 +21,7 @@ Human body is a source of a thousands of types of bacteria harbored by different
        index.html is the web page code to present the information.
        style.css gave the page touch of charachter.
        
-       ![](https://github.com/4renginy/BellybuttonBiodiversity.github.io/blob/master/Pics/cssfile.PNG)
+ ![](https://github.com/4renginy/BellybuttonBiodiversity.github.io/blob/master/Pics/cssfile.PNG)
        Charts.js is the code to populate the necessary information
  
  You can see the result of this project at following link;
