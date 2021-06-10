@@ -20,7 +20,8 @@ Human body is a source of a thousands of types of bacteria harbored by different
  On this page the provider will be able to choose their id number from dorpdown menu and see all the information about themselves and what kind of bacterias found in their          body. 
  <br>
  <br>
-       index.html is the web page code to present the information.
+       
+ index.html is the web page code to present the information.
  <br>
        
  ![](https://github.com/4renginy/BellybuttonBiodiversity.github.io/blob/master/Pics/htmlfile.PNG)
