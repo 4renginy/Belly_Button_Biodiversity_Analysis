@@ -36,7 +36,8 @@ Human body is a source of a thousands of types of bacteria harbored by different
   
   <br>
   
-  https://github.com/4renginy/BellybuttonBiodiversity.github.io/blob/master/Pics/htmlfile.PNG
+  ![](https://github.com/4renginy/BellybuttonBiodiversity.github.io/blob/master/Pics/htmlfile.PNG)
+  <br>
  
  You can see the result of this project at following link;
  
